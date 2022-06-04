@@ -8,4 +8,4 @@ This is a markdown file. Since I typically use Emacs Org mode for these, I'm unf
 # Branching: Edits to the Readme
 
 I added this section while working through the section of the Quickstart exercise about branching and making/commiting changes. I did the following:
-1. Created a branch named readme-edits, distinct from 
+1. Created a branch named `readme-edits`, distinct from `main`.

@@ -4,3 +4,6 @@ This is my basic repo so I can learn git. This follows the GitHub [QuickStart gu
 This is a markdown file. Since I typically use Emacs Org mode for these, I'm unfamiliar with markdown, but here's a collection of information.
 1. [https://anvilproject.org/guides/content/creating-links](How to do hyperlinks)
 
+# Branching: Edits to the Readme
+
+I added this section while working through the section of the Quickstart exercise about branching and making/commiting changes.
